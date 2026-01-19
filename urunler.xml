@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
 
@@ -19,6 +20,16 @@
     <stock>50</stock>
     <description>İkinci örnek ürün</description>
     <image>https://www.siteadresin.com/resim2.jpg</image>
+  </product>
+
+  <product>
+    <id>3</id>
+    <name>Yeni Ürün 3</name>
+    <price>400</price>
+    <currency>TRY</currency>
+    <stock>20</stock>
+    <description>Yeni eklenen ürün açıklaması</description>
+    <image>https://resimlinkin.com/urun3.jpg</image>
   </product>
 
 </products>
