@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+
+  <product>
+    <id>1</id>
+    <name>Örnek Ürün 1</name>
+    <price>100</price>
+    <currency>TRY</currency>
+    <stock>100</stock>
+    <description>Bu bir örnek üründür</description>
+    <image>https://www.siteadresin.com/resim1.jpg</image>
+  </product>
+
+  <product>
+    <id>2</id>
+    <name>Örnek Ürün 2</name>
+    <price>250</price>
+    <currency>TRY</currency>
+    <stock>50</stock>
+    <description>İkinci örnek ürün</description>
+    <image>https://www.siteadresin.com/resim2.jpg</image>
+  </product>
+
+</products>
